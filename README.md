@@ -16,4 +16,4 @@ ________________________________________________________________________________
 
 > [Material para consulta - Unidade 3 - Funções: desenvolvendo um recomendador de filmes com JavaScript](https://drive.google.com/drive/folders/1B-7VLhCNYJNhF_Xes5L4fArQREEkbwV8?usp=sharing) 📖
 
-> Material para consulta - Unidade 3 - Repositório digital: aprenda a compartilhar seus projetos. 📖
+> [Material para consulta - Unidade 3 - Repositório digital: aprenda a compartilhar seus projetos](https://drive.google.com/drive/folders/1CHrkrDiPE0RbK6f9dYQ_dHnstqA3corw?usp=sharing). 📖
